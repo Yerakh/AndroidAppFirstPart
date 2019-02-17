@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "830285652921",
+    "firebase_url": "https://androidcaffee.firebaseio.com",
+    "project_id": "androidcaffee",
+    "storage_bucket": "androidcaffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830285652921:android:f7eccd9e51174b2c",
+        "android_client_info": {
+          "package_name": "com.example.yerbol.androidcaffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830285652921-mf7ip4jgndeo5vg19li1g6nd19se9lf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yerbol.androidcaffee",
+            "certificate_hash": "5261241b9628a2480de9e4d3a748da7312f621b6"
+          }
+        },
+        {
+          "client_id": "830285652921-8thkonm11lj0c0bb0su0vh2cq4ksoujj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8NvGwVnjeZtzcAXDXEMrogP7BkWAw4fA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830285652921-8thkonm11lj0c0bb0su0vh2cq4ksoujj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
